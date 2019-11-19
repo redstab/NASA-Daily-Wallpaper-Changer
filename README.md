@@ -1,2 +1,6 @@
 # NASA-Daily-Wallpaper-Changer
-fetches from https://apod.nasa.gov/apod/ and sets wallpaper equal to the current picture of the day
+Get images from https://apod.nasa.gov/apod/ and updates wallpaper accordingly.
+
+Stores images in users folder along with a log file.
+
+For optimal usage place binary in startup folder ("shell:startup") or in task scheduler!
