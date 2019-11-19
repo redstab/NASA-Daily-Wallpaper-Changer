@@ -170,7 +170,7 @@ class Program
         nasa_img apot = new nasa_img
 
         {
-            ApiKey = "75hJbORv7Rf4t3mPHsLXLlU8jeuLVT3az075xiSk",
+            ApiKey = "DEMO_KEY",
             Date = DateTime.Now,
             HD = true,
             AllowOnlyPicture = true
